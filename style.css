@@ -1,0 +1,12 @@
+body{
+  background-color: #2cff2c;
+  color: orangered;
+}
+div{
+  
+  
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
